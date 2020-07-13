@@ -1,2 +1,4 @@
 # Teste-versionamento
-Primeiro repositorio do curso Git e GitHub
+Primeiro repositório do curso Git e GitHub
+
+teste de criação de repositório.
