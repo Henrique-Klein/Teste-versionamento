@@ -1,6 +1,6 @@
 # Teste-versionamento
-Primeiro repositório do curso Git e GitHub
+Primeiro repositório do curso **Git** e **GitHub**
 
 teste de criação de repositório.
 
-Essa linha foi adicionada pelo github.
+Essa linha foi adicionada pelo *github*.
